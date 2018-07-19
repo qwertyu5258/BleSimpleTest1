@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "749451716514",
+    "firebase_url": "https://fir-testv2-f9261.firebaseio.com",
+    "project_id": "fir-testv2-f9261",
+    "storage_bucket": "fir-testv2-f9261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749451716514:android:51475137ff83c4b9",
+        "android_client_info": {
+          "package_name": "com.example.doctorsfab.blesimpletest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749451716514-mshn64pv4664rf0nok153pp4sjr8j147.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctorsfab.blesimpletest1",
+            "certificate_hash": "85632b3ae1195dbfce50acf0ba5cacde2a83bd7b"
+          }
+        },
+        {
+          "client_id": "749451716514-iv0r552jtthv14d5bqa37rqa1vgsnrpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XQVRPJiWt9DiL2RhjlHYTzBOpqYRD6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749451716514-iv0r552jtthv14d5bqa37rqa1vgsnrpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749451716514:android:05a1ba44303d65de",
+        "android_client_info": {
+          "package_name": "com.example.doctorsfab.firebasetemplate_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749451716514-f1bh8f3qfbn021ihh737jjk44bi1uujn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctorsfab.firebasetemplate_google",
+            "certificate_hash": "85632b3ae1195dbfce50acf0ba5cacde2a83bd7b"
+          }
+        },
+        {
+          "client_id": "749451716514-iv0r552jtthv14d5bqa37rqa1vgsnrpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XQVRPJiWt9DiL2RhjlHYTzBOpqYRD6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749451716514-iv0r552jtthv14d5bqa37rqa1vgsnrpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749451716514:android:34959c04390b79c9",
+        "android_client_info": {
+          "package_name": "com.example.doctorsfab.firebasetestv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749451716514-d65dluo3nugcbos2tkqehdgf32fv7jn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctorsfab.firebasetestv2",
+            "certificate_hash": "85632b3ae1195dbfce50acf0ba5cacde2a83bd7b"
+          }
+        },
+        {
+          "client_id": "749451716514-iv0r552jtthv14d5bqa37rqa1vgsnrpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XQVRPJiWt9DiL2RhjlHYTzBOpqYRD6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749451716514-iv0r552jtthv14d5bqa37rqa1vgsnrpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
